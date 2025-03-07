@@ -1,0 +1,43 @@
+.text{
+    color: blue;
+    font-weight: bold;
+}
+
+
+
+.heading{
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-style: oblique;
+font-weight: 600;
+}
+
+
+body{
+    background-image:url("./123.jpg");
+    background-size: cover;
+    background-position: top;
+    background-repeat: no-repeat;
+    position: relative;
+    height: 20vh;
+
+    
+
+ }
+    
+.mines {
+    width: 200px;
+    height: 200px;
+    border-radius: 60%;
+    overflow: hidden;
+}
+
+.mines img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+
+
+
+
